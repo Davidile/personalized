@@ -168,12 +168,15 @@ nav {
   color: royalblue;
 }
 
-.logo img {
+.logo .logo {
+  color:orangered;
+  font-size: 50px;
+  font-family: cursive;
   border-radius: 12px;
   margin-top: 10px;
   background-color: transparent;
 }
-.logo img :hover {
+.logo .logo :hover {
   cursor: pointer;
 }
 .links-container {
